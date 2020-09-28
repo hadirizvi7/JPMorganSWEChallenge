@@ -2,7 +2,7 @@
 
 About:
 
-Software engineering exercises offered by JP Morgan (as a part of their Virtual Internship).
+Software engineering exercises offered by JP Morgan.
 
 What I learned:
 
